@@ -5,10 +5,10 @@
 - Styled-Components
 - Firebase
 
-# Proforma Management
+# Proforma Data Base Portfolio Version
 
 <br />
-link to demo version: https://proforma-management.netlify.app/
+link to demo version: https://proforma-data-base-portfolio-version.netlify.app/
 <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
